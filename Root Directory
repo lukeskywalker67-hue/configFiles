@@ -1,0 +1,16 @@
+Folders:
+scheduler
+text_encoder
+tokenizer
+transformer
+vae
+
+Files:
+.gitattributes
+LICENSE.md
+README.md
+ae.safetensors
+flux2-dev.safetensors
+model_index.json
+teaser_editing.png
+teaser_generation.png
